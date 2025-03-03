@@ -55,6 +55,7 @@ Quit the server with CONTROL-C.
 
 You can copy the url `http://127.0.0.1:8000/` from the output and paste it directly to your browser's search bar.
 
+
 Alternatively, you can click at the link `http://127.0.0.1:8000/` from the output while pressing the `Command ⌘` key, and it
 will open a new browser tab for the web application.
 
